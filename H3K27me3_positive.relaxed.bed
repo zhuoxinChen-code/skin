@@ -1,6 +1,5 @@
 browser position chr7:127471196-127495720
-browser hide all
-track name="H3K27me3_positive" description="H3K27me3_positive" visibility=2 colorByStrand="255,0,0 0,0,255"
+track name="H3K27me3_positive" description="H3K27me3_positive" visibility=1 colorByStrand="255,0,0 0,0,255"
 chr1	4489767	4500744	chr1:4493402-4493404	0	+
 chr1	5017514	5022994	chr1:5022914-5022915	0	+
 chr1	5915248	5918136	chr1:5916103-5916107	0	+
