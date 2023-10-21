@@ -1,6 +1,6 @@
 browser position chr7:127471196-127495720
 browser hide all
-track name="ColorByStrandDemo" description="H3K27me2_rep1" visibility=2 colorByStrand="255,0,0 0,0,255"
+track name="H3K27me2_rep1" description="H3K27me2_rep1" visibility=2 colorByStrand="255,0,0 0,0,255"
 chr1	3144402	3144827	chr1:3144608-3144617	0	+
 chr1	3369953	3370345	chr1:3369953-3370160	0	+
 chr1	3555567	3555907	chr1:3555573-3555907	0	+
