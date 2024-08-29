@@ -1,0 +1,6 @@
+hub enh_chicago3
+shortLabel chicago3
+longLabel enh_chicago3
+genomesFile genomes.txt
+email zhuoxinc@uci.edu
+descriptionUrl blank.html

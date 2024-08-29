@@ -1,0 +1,27 @@
+track bw_chicago3_CF3
+container multiWig
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+shortLabel CF3_chicago3
+longLabel CF3_chicago3
+allButtonPair on
+autoScale on
+visibility full
+type bigWig
+maxHeightPixels 50:40:10
+
+track H3K4me_BA_11
+parent bw_chicago3_CF3
+bigDataUrl https://www.ebi.ac.uk/biostudies/files/E-MTAB-14340/H3K4me_BA_11_merge_p001_peaks.narrowPeak
+shortLabel H3K4me_BA_11
+longLabel H3K4me_BA_11
+type bigWig
+color 4,131,207
+
+track SMARCA4_BA_11
+parent bw_chicago3_CF3
+bigDataUrl https://www.ebi.ac.uk/biostudies/files/E-MTAB-14340/SMARCA4_BA_11.bw
+shortLabel SMARCA4_BA_11
+longLabel SMARCA4_BA_11
+type bigWig
+color 4,131,207
