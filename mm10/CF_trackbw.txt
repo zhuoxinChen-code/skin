@@ -10,9 +10,9 @@ visibility full
 type bigWig
 maxHeightPixels 50:40:10
 
-track H3K4me_BA_11
+track HDAC1_L_11
 parent bw_chicago3_CF3
-bigDataUrl https://www.ebi.ac.uk/biostudies/files/E-MTAB-14340/H3K4me_BA_11_merge_p001_peaks.narrowPeak
+bigDataUrl https://www.ebi.ac.uk/biostudies/files/E-MTAB-14340/HDAC1_L_11.bw
 shortLabel H3K4me_BA_11
 longLabel H3K4me_BA_11
 type bigWig
