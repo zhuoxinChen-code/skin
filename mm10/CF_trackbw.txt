@@ -12,7 +12,7 @@ maxHeightPixels 50:40:10
 
 track DLX5_HL_11
 parent bw_cut&run_hindlimb
-bigDataUrl bw/DLX5_HL_11.bw
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/zhxchen/analyses/DLX5_HL_11.bw
 shortLabel DLX5_HL_11
 longLabel DLX5_HL_11
 type bigWig
@@ -20,7 +20,7 @@ color 4,131,207
 
 track ETV4_HL_11
 parent bw_cut&run_hindlimb
-bigDataUrl bw/ETV4_HL_11.bw
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/zhxchen/analyses/ETV4_HL_11.bw
 shortLabel ETV4_HL_11
 longLabel ETV4_HL_11
 type bigWig
